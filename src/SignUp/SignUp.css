@@ -1,0 +1,15 @@
+.signUpForm-container{
+  box-sizing: border-box;
+  width: 500px;
+  height: 700px;
+  margin: 110px auto;
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
+  box-shadow: -20px 20px 0 #ffe0b3;
+  padding-left: 40px;
+}
+.password-error{
+  color: red;
+  margin-top: -15px;
+  margin-left: 15px;
+}
